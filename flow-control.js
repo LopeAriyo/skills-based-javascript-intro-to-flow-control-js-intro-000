@@ -34,8 +34,22 @@ function switchAge(age){
   case age = 14:
       return "You have an age"
       break;
+  case age = 15:
+      return "You have an age"
+      break;
+  case age = 16:
+          return "You are a teenager"// code to be executed if case n is true
+          break;
+  case age = 17:
+          return "You have an age"
+          break;
+  case age = 18:
+          return "You have an age"
+          break;
+  case age = 19:
+      return "You have an age"
+                  break;
   default:  // all other cases
       return "You have an age"// code to be executed if case n and case m false
-      break;
 }
 }

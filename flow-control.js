@@ -1,19 +1,7 @@
+var age = 15;
+
 function basicTeenager(age) {
-
-}
-
-function teenager(age) {
-
-}
-
-function ageChecker(age) {
-
-}
-
-function ternaryTeenager(age) {
-
-}
-
-function switchAge(age) {
-
+  if (age > 12 && age < 20){
+  console.log("You are a teenager!")
+  }
 }

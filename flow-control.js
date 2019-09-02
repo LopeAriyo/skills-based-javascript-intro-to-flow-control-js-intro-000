@@ -27,7 +27,7 @@ function ternaryTeenager(age){
 }
 
 function switchAge(age){
-  switch (expression) {
+  switch (age) {
   case age >= 13 && age <= 19:
       return "You are a teenager"// code to be executed if case n is true
       break; // break out of switch statement once code executed

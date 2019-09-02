@@ -33,5 +33,6 @@ function switchAge(age){
       break;
   default:  // all other cases
       return "You have an age"// code to be executed if case n and case m false
+      break;
 }
 }

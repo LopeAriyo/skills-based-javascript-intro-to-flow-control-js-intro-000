@@ -4,4 +4,4 @@ function basicTeenager(age) {
   }
 }
 
-basicTeenager(15);
+basicTeenager(15)

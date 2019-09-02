@@ -31,6 +31,6 @@ function switchAge(age){
   case age >= 13 && age <= 19:
       return "You are a teenager"// code to be executed if case n is true
   default:  // all other cases
-      return "You have an age"// code to be executed if case n and case m false
+      return "You are a teenager"// code to be executed if case n and case m false
 }
 }
